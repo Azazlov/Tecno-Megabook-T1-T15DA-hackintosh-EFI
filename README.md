@@ -1,0 +1,1 @@
+# Tecno-Megabook-T1-T15DA-hackintosh-EFI
