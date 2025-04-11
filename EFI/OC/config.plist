@@ -516,7 +516,7 @@
 				<key>Comment</key>
 				<string>Platform for arbitrary kext, library, and program patching throughout the system</string>
 				<key>Enabled</key>
-				<trueß/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CHID</string>
 				<key>MaxKernel</key>
@@ -660,7 +660,7 @@
 				<key>Comment</key>
 				<string>Fixes keyboard</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Controller</string>
 				<key>MaxKernel</key>
